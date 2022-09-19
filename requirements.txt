@@ -2,4 +2,4 @@ streamlit
 opencv-python
 numpy
 simpleaudio
-python-3.4.3
+python-3.4.10
