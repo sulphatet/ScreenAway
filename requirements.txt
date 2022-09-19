@@ -1,6 +1,5 @@
 streamlit
 opencv-python
-time
 numpy
 simpleaudio
 python-3.4.3
