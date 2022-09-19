@@ -3,3 +3,4 @@ cv2
 time
 numpy
 simpleaudio
+python-3.4
