@@ -2,7 +2,7 @@ import cv2
 
 import streamlit as st
 
-import time
+#import time
 
 import numpy as np
 import simpleaudio as sa
