@@ -1,0 +1,5 @@
+streamlit
+cv2
+time
+numpy
+simpleaudio
